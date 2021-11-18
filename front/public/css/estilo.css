@@ -1,0 +1,44 @@
+
+
+.textoinput {
+    margin-bottom: 1;
+}
+
+input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #ffffff8f;
+    border: 1px solid rgba(0,0,0,0.1);  
+    border-radius: 4%;
+  }
+
+  body {
+
+    background: url(../img/Imagen1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+#botonIngresar {
+  color: #000;
+  background-color: #dbd1b6;
+  border-color: #cfc9b3;
+}
+

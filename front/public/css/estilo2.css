@@ -1,0 +1,46 @@
+
+
+
+#botonmenu {
+  width: 240px;
+  color: #000;
+  background-color: hsla(32, 86%, 49%, 0.904);
+  border-color: #cfc9b3;
+  margin-left: 28%;
+  font-weight: 640;
+  line-height: 1.8;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 2.3px 12px;
+  font-size: 1rem;
+  border-radius: .60rem;
+  
+}
+
+
+
+#botonmenu1 {
+  width: 100px; 
+  color: #000;
+  background-color: hsla(32, 86%, 49%, 0.904);
+  border-color: #cfc9b3;
+  margin-left: -15%;
+  font-weight: 640;
+  line-height: 1.8;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 1.8px 3px;
+  font-size: 1rem;
+  border-radius: .70rem;
+}
+
+body {
+
+  background: url(../img/Imagen1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
